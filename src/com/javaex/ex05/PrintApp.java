@@ -12,6 +12,7 @@ public class PrintApp {
         print.printer(5.7);
         print.printer("홍길동");
         
+        
     }
 
 }
